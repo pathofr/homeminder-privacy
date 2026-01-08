@@ -126,7 +126,7 @@ Users may request deletion of their personal data by:
 
 \- Using in-app data deletion features (if available), or
 
-\- Contacting us at \*\*support@yourdomain.com\*\*
+\- Contacting us at \*\*jennyx003@gmail.com\*\*
 
 
 
@@ -188,7 +188,7 @@ If you have questions about this Privacy Policy or your data, please contact us 
 
 
 
-\*\*Email:\*\* support@yourdomain.com  
+\*\*Email:\*\* jennyx003@gmail.com  
 
 \*\*Developer:\*\* HomeMinder
 
